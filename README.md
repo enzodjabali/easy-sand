@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/774340712585625603/779809606167166986/1280px-PHP-logo.svg.png)
+![](https://cdn.discordapp.com/attachments/774340712585625603/779810080802471976/php.png)
 # *Parchoquer Bot*
 ![](https://img.shields.io/badge/Discord-C%C3%A9rveauParchoqu%C3%A9.js%20%F0%9F%A7%A0%230582-blue) ![](https://img.shields.io/badge/Discord.js-V12-blue)
 
