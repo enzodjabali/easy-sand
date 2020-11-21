@@ -1,6 +1,4 @@
-# EasySand-v0.2
-
-![](https://cdn.discordapp.com/attachments/635731474104057857/651259762276696097/discord.js.png)
+![](https://cdn.discordapp.com/attachments/774340712585625603/779809606167166986/1280px-PHP-logo.svg.png)
 # *Parchoquer Bot*
 ![](https://img.shields.io/badge/Discord-C%C3%A9rveauParchoqu%C3%A9.js%20%F0%9F%A7%A0%230582-blue) ![](https://img.shields.io/badge/Discord.js-V12-blue)
 
