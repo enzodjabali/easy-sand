@@ -2,7 +2,7 @@
 #################################  Configuration  #################################
 
 // Domaine de votre serveur, exemple : http://172.21.145.36/
-$domaine = "http://51.210.101.137:8833/";
+$domaine = "https://mon-domaine.fr/";
 
 // Thème de l'application : classic, dark
 $theme = "classic";
