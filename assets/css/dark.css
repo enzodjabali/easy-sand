@@ -1,0 +1,15 @@
+body {
+	font-family: cursive;
+}
+
+.main-content {
+	color: #F7F7F7;
+	background-color: #3D3D3D;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#tocopy, #tocopy2 {
+	color: #D3D1D1;
+}

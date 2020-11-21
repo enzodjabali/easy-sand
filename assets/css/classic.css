@@ -1,0 +1,10 @@
+body {
+	font-family: cursive;
+}
+
+.main-content {
+	background-color: #FFFDAF;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+}
