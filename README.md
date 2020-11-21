@@ -2,12 +2,10 @@
 ![](https://cdn.discordapp.com/attachments/774340712585625603/779824921895370770/es-banner.jpg)
 # *v0.2*
 
-### Requirement
-- Node.js 6.0.0 minimum requis.
-- npm
-- FFMPEG
-- MongoDB Server
-- Clé API Youtube
+### Prérequis
+- OS GNU/Linux
+- PHP 4.0 minimum
+- Screen 3.1 minimum
 --------
 Les commandes suivantes sont nécessaire pour Canvas
 
@@ -25,7 +23,7 @@ Others | Voir le [wiki](https://github.com/Automattic/node-canvas/wiki)i)
 
 ### Installation
 
-- **Bot écrit et executer sous ubuntu 18.04 avec Node.js version 10.17.0 & npm version 6.11.3**
+- **Application développer sous debian 9 avec PHP 7.2.34 & Apache/2.4.25**
 
 ```javascript
 npm install
