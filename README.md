@@ -4,10 +4,11 @@
 
 ### Prérequis
 - OS GNU/Linux
+- Serveur web
 - PHP 4.0 minimum
 - Screen 3.1 minimum
 --------
-Les commandes suivantes sont nécessaire pour Canvas
+Les variables suivantes sont modifiables dans le dossier config.php
 
 Variable | Configuration
 ----- | -----
@@ -17,7 +18,7 @@ $timelimit | `Limite de temps des fichiers (nécessite screen)`
 $mdp | `Ajout d'un mot de passe aux liens`
 --------
 
-### Installation
+### Mise en place
 
 - **Application développer sous debian 9 avec PHP 7.2.34 & Apache/2.4.25**
 
