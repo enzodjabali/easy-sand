@@ -1,6 +1,6 @@
+# EasySand
 ![](https://cdn.discordapp.com/attachments/774340712585625603/779824921895370770/es-banner.jpg)
-# *Parchoquer Bot*
-![](https://img.shields.io/badge/PHP) ![](https://img.shields.io/badge/Discord.js-V12-blue)
+# *v0.2*
 
 ### Requirement
 - Node.js 6.0.0 minimum requis.
