@@ -10,7 +10,7 @@
 - PHP 4.0 minimum
 - Screen 3.1 minimum
 --------
-Les variables suivantes sont modifiables dans le dossier config.php
+Les variables suivantes sont modifiables dans le fichier config.php
 
 Variable | Configuration
 ----- | -----
